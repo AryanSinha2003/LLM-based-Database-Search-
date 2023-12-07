@@ -1,1 +1,6 @@
-# LLM-based-Database-Search-
+# LLM-based-Database-Search
+
+TO RUN THE STREAMLIT APPLICATION :
+1) GO TO THE FOLDER WHERE YOUR "MAIN.PY" FILE IS PRESENT.
+2) OPEN TERMINAL THERE ITSELF .
+3) RUM THE COMMAND "streamlit run main.py"
